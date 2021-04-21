@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "tweetApp-console": {
+      "commandName": "Project"
+    }
+  }
+}

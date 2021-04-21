@@ -1,0 +1,11 @@
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\obj\Debug\netcoreapp2.2\tweetApp-console.csprojAssemblyReference.cache
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\obj\Debug\netcoreapp2.2\tweetApp-console.csproj.CoreCompileInputs.cache
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\obj\Debug\netcoreapp2.2\tweetApp-console.AssemblyInfoInputs.cache
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\obj\Debug\netcoreapp2.2\tweetApp-console.AssemblyInfo.cs
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\bin\Debug\netcoreapp2.2\tweetApp-console.deps.json
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\bin\Debug\netcoreapp2.2\tweetApp-console.runtimeconfig.json
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\bin\Debug\netcoreapp2.2\tweetApp-console.runtimeconfig.dev.json
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\bin\Debug\netcoreapp2.2\tweetApp-console.dll
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\bin\Debug\netcoreapp2.2\tweetApp-console.pdb
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\obj\Debug\netcoreapp2.2\tweetApp-console.dll
+C:\Users\kaart\Works\IIHT\tweetApp-console\tweetApp-console\obj\Debug\netcoreapp2.2\tweetApp-console.pdb
